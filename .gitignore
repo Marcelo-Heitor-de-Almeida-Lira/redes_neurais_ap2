@@ -2,5 +2,6 @@
 venv/
 venv
 anaconda_projects/
+.ipynb_checkpoints
 .history/
 redes-neurais
