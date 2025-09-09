@@ -1,7 +1,7 @@
 # Equipe
-- integrante 1
+- Juliana Ballin Lima
 - Marcelo Heitor de Almeida Lira
-- integrante 3
+- Ryan da Silva Marinho
 
 # Redes Neurais - Atividade Prática 1.2
 
