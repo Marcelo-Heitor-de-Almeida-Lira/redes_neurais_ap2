@@ -1,3 +1,8 @@
+# Equipe
+- integrante 1
+- Marcelo Heitor de Almeida Lira
+- integrante 3
+
 # Redes Neurais - Atividade Prática 1.2
 
 Este repositório contém os **artefatos e códigos** desenvolvidos para a **atividade prática da disciplina de Redes Neurais**.  
